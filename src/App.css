@@ -19,6 +19,23 @@
   color: white;
 }
 
+h2 {
+  text-align: center;
+}
+
+#main {
+  text-align: center;
+  height: 500px;
+  width: 500px;
+  border-radius: 3%;
+  background-color: skyblue;
+  margin: 0 auto;
+}
+
+#getweather {
+  margin-top: 150px;
+}
+
 .App-link {
   color: #61dafb;
 }
